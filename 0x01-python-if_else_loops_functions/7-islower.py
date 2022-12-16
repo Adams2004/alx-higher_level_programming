@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def islower(c):
 
-    if(ord(c) >= 65 and ord(c) >= 90):
+    for ord (c) in  (65 , 90):
         return True
     else:
         return False
