@@ -1,5 +1,4 @@
 #!/bin/usr/python3
-
 def uppercase(str):
     for i in range(len(str)):
         code_num = ord(str[i])
